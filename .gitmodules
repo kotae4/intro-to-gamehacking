@@ -1,0 +1,3 @@
+[submodule "example_projects/BasicManualMapper"]
+	path = example_projects/BasicManualMapper
+	url = https://github.com/kotae4/BasicManualMapper.git
