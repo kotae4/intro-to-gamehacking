@@ -1,3 +1,6 @@
-[submodule "example_projects/BasicManualMapper"]
-	path = example_projects/BasicManualMapper
+[submodule "Section 3 - Injection/example_projects/BasicManualMapper"]
+	path = Section 3 - Injection/example_projects/BasicManualMapper
 	url = https://github.com/kotae4/BasicManualMapper.git
+[submodule "Section 1 - Basics/example_projects/lab-reversing-structures"]
+	path = Section 1 - Basics/example_projects/lab-reversing-structures
+	url = https://github.com/kotae4/lab-reversing-structures
