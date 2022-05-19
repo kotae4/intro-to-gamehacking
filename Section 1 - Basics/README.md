@@ -56,7 +56,7 @@ Good resources for learning more: Windows Internals book, Intel Software Develop
 This guide assumes you have prior programming experience dealing with pointers. Don't sweat it if you mess them up sometimes. Everyone does. I mess up pointer arithmetic at least once per project. You should be comfortable with this exercise: given an address (eg; 0x410000) read the first 4 bytes. Bonus points if you can read the first 4 bits.
 
 ## x86 Assembly ##
-CPUs read bytes. Bytes are the words of their language. But just like our words have meaning, so to must their bytes. That is where 'instruction sets' come in.  
+CPUs read bytes. Bytes are the words of their language. But just like our words have meaning, so too must their bytes. That is where 'instruction sets' come in.  
 The x86 instruction set is the most common instruction set used by consumer CPUs.  
 The x86 assembly *language* is a set of mnemonics that translate to x86-encoded instruction bytes.  
 The human-readable `mov eax, 1` will compile to bytes `B801000000` and that's what will be stored on disk and eventually parsed by the CPU if executed.  

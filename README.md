@@ -122,20 +122,20 @@ Example projects may be included in each section, but they are also linked to in
 	
 ### (Work-In-Progress) Example Projects / Labs ###
 
-1. Viewing data structures in memory and in a disassembler
-2. Basic manual mapper
-3. Aimbot + ESP quick rundown for assault cube
+- [x] Viewing data structures in memory and in a disassembler
+- [x] Basic manual mapper
+- [x] Aimbot + ESP quick rundown for assault cube
 	<ol type="a">
 	<li>internal and maybe external?</li>
 	</ol>
-4. Aimbot + ESP quick rundown for an old quake engine game
-5. Aimbot + ESP quick rundown for a ue4 game
+- [ ] Aimbot + ESP quick rundown for an old quake engine game
+- [ ] Aimbot + ESP quick rundown for a ue4 game
 	<ol type="a">
 	<li>GObjects + GNames = GG</li>
 	</ol>
-6. Aimbot + ESP quick rundown for a unity game
+- [ ] Aimbot + ESP quick rundown for a unity game
 	<ol type="a">
 	<li>mono backend vs il2cpp backend</li>
 	</ol>
-7. Aimbot + ESP quick rundown for a cryengine (5?) game
-8. Converting assault cube hack to kernel-mode
+- [ ] Aimbot + ESP quick rundown for a cryengine (5?) game
+- [ ] Converting assault cube hack to kernel-mode

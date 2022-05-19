@@ -4,3 +4,9 @@
 [submodule "Section 1 - Basics/example_projects/lab-reversing-structures"]
 	path = Section 1 - Basics/example_projects/lab-reversing-structures
 	url = https://github.com/kotae4/lab-reversing-structures
+[submodule "Practical Experience - Labs & POCs/lab-esp-and-aimbot"]
+	path = Practical Experience - Labs & POCs/lab-esp-and-aimbot
+	url = https://github.com/kotae4/lab-esp-and-aimbot
+[submodule "Section 2 - Hooking/example_projects/lab-hooking-testbed"]
+	path = Section 2 - Hooking/example_projects/lab-hooking-testbed
+	url = https://github.com/kotae4/lab-hooking-testbed
